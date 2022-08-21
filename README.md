@@ -1,4 +1,4 @@
-# wxmall
+# java1234mall
 
 ## Project setup
 ```

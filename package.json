@@ -1,5 +1,5 @@
 {
-  "name": "wxmall",
+  "name": "java1234mall",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,15 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "axios": "^0.27.2",
-    "core-js": "^3.23.2",
-    "element-plus": "^2.2.6",
-    "sass": "^1.53.0",
-    "sass-loader": "^13.0.1",
+    "axios": "^0.27.1",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.1.11",
+    "sass": "^1.51.0",
+    "sass-loader": "^12.6.0",
     "svg-sprite-loader": "^6.0.11",
-    "vue": "^3.0.0",
-    "vue-router": "^4.0.0-0",
-    "vuex": "^4.0.0-0"
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
@@ -26,6 +26,7 @@
   "browserslist": [
     "> 1%",
     "last 2 versions",
-    "not dead"
+    "not dead",
+    "not ie 11"
   ]
 }

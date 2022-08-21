@@ -2,7 +2,7 @@
   <router-view/>
 </template>
 
-<style lang="scss">
+<style>
 html,body,#app{
   height: 100%;
 }
